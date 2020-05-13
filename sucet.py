@@ -1,9 +1,3 @@
-#GUL0021, Gulcik Tomas
-# 9.Třída Soucet (bude sčítat cifry v zadaném čísle.
-# např. zadá se číslo 5895 a proběhne následující výpočet 5+8+9+5 = 27 > 2+7 = 9 – tzn., až se dojde k jednocifernému číslu
-# Metoda secti s parametrem číslo
-# Po zobrazeni vysledku, vypise numerologicky vyznam cisla.
-
 
 class Soucet:
 
